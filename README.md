@@ -1,8 +1,3 @@
-Aquí tienes la documentación completa y profesional estructurada para tu README.md final. Incluye la arquitectura, las tecnologías, las variables de entorno, las instrucciones de ejecución, la suite de pruebas y las decisiones de diseño arquitectónico.
-
-Puedes copiar este contenido directamente en el archivo README.md de la raíz del proyecto:
-
-Markdown
 # 🚀 Bug Hunter AI Agent (MCP) — Spring Boot 3.x & LangChain4j
 
 Agente de Inteligencia Artificial desarrollado en **Java 17**, **Spring Boot 3.x** y **LangChain4j**, diseñado para automatizar la auditoría de código, el análisis de causa raíz y la interacción en repositorios de GitHub mediante el estándar **Model Context Protocol (MCP)**.
