@@ -1,4 +1,4 @@
-# Bug Hunter AI Agent (MCP) — Spring Boot 3.x & LangChain4j
+# Bug Hunter AI Agent (MCP)
 
 Agente de Inteligencia Artificial desarrollado en **Java 17**, **Spring Boot 3.x** y **LangChain4j**, diseñado para automatizar la auditoría de código, el análisis de causa raíz y la interacción en repositorios de GitHub mediante el estándar **Model Context Protocol (MCP)**.
 
