@@ -27,7 +27,7 @@ public class IssueScannerService implements CommandLineRunner {
     @Value("${github.repo}")
     private String githubRepo;
 
-    @Value("${spring.mail.username}")
+    @Value("${report.recipient}")
     private String reportRecipient;
 
     public IssueScannerService(BugHunterAgent bugHunterAgent, EmailReportService emailReportService) {
